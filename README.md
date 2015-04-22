@@ -3,6 +3,10 @@
 ###David Eliason && Brian Kropff
 ###App Description
 This app focuses upon entering the names and types of animals into a shelter database. The animals will be divided into those that have been adopted and those that are still at the shelter. The underlying logic being explored is factories, the MVC structure
+###
+
+*This code was written primarily without consultation to texts, in about 1.5 hours*
+
 ###<a href="http://opensource.org/licenses/MIT"MIT Open Source License</a>
 ###Copyright © 2015
 ####Technologies Used:
